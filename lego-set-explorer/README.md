@@ -6,8 +6,8 @@ An interactive Power BI dashboard for exploring LEGO sets.
 - Filter LEGO sets by theme group, theme and age range
 - Explore individual set details
 - View average price and number of pieces
-- Navigate to a detailed analysis page
-- Use a decomposition tree to explore the data
+- Navigate to a decemposition tree page
+- Use decomposition tree to explore the data
 - Reset all filters with one click
 
 ## Tools used
